@@ -1,0 +1,1 @@
+from .solution import random_solution
